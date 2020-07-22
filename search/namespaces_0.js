@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['cli_2637',['Cli',['https://common.nano-byte.net/namespace_nano_byte_1_1_common_1_1_cli.html',1,'NanoByte::Common']]],
+  ['collections_2638',['Collections',['https://common.nano-byte.net/namespace_nano_byte_1_1_common_1_1_collections.html',1,'NanoByte::Common']]],
+  ['common_2639',['Common',['https://common.nano-byte.net/namespace_nano_byte_1_1_common.html',1,'NanoByte']]],
+  ['controls_2640',['Controls',['https://common.nano-byte.net/namespace_nano_byte_1_1_common_1_1_controls.html',1,'NanoByte::Common']]],
+  ['design_2641',['Design',['https://common.nano-byte.net/namespace_nano_byte_1_1_common_1_1_values_1_1_design.html',1,'NanoByte::Common::Values']]],
+  ['dispatch_2642',['Dispatch',['https://common.nano-byte.net/namespace_nano_byte_1_1_common_1_1_dispatch.html',1,'NanoByte::Common']]],
+  ['info_2643',['Info',['https://common.nano-byte.net/namespace_nano_byte_1_1_common_1_1_info.html',1,'NanoByte::Common']]],
+  ['nanobyte_2644',['NanoByte',['https://common.nano-byte.net/namespace_nano_byte.html',1,'']]],
+  ['native_2645',['Native',['https://common.nano-byte.net/namespace_nano_byte_1_1_common_1_1_native.html',1,'NanoByte::Common']]],
+  ['net_2646',['Net',['https://common.nano-byte.net/namespace_nano_byte_1_1_common_1_1_net.html',1,'NanoByte::Common']]],
+  ['storage_2647',['Storage',['https://common.nano-byte.net/namespace_nano_byte_1_1_common_1_1_storage.html',1,'NanoByte::Common']]],
+  ['streams_2648',['Streams',['https://common.nano-byte.net/namespace_nano_byte_1_1_common_1_1_streams.html',1,'NanoByte::Common']]],
+  ['tasks_2649',['Tasks',['https://common.nano-byte.net/namespace_nano_byte_1_1_common_1_1_tasks.html',1,'NanoByte::Common']]],
+  ['undo_2650',['Undo',['https://common.nano-byte.net/namespace_nano_byte_1_1_common_1_1_undo.html',1,'NanoByte::Common']]],
+  ['values_2651',['Values',['https://common.nano-byte.net/namespace_nano_byte_1_1_common_1_1_values.html',1,'NanoByte::Common']]],
+  ['windowstaskbar_2652',['WindowsTaskbar',['https://common.nano-byte.net/struct_nano_byte_1_1_common_1_1_native_1_1_windows_taskbar_1_1_shell_link.html',1,'NanoByte::Common::Native']]]
+];
